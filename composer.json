@@ -1,5 +1,5 @@
 {
-    "name": "jinseokoh/aligo",
+    "name": "sloop/aligo",
     "description": "Laravel notification channel for Aligo",
     "type": "library",
     "version": "2.1.0",
